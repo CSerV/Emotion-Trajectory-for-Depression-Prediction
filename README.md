@@ -1,7 +1,7 @@
 # Emotion-Trajectory-Driven Segment Selection for Depression Severity Prediction
 
 <div style="text-align: center;">
-  <img src="res/Trajectory_exp_pipeline.png" alt="Pipeline of Trajectory-Feature-Driven Emotion-Embedding Selection for Depression Severity Prediction." width="90%">
+  <img src="res/Trajectory_exp_pipeline.png" alt="Pipeline of Trajectory-Feature-Driven Emotion-Embedding Selection for Depression Severity Prediction." width="80%">
 </div>
 
 
