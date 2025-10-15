@@ -1,8 +1,14 @@
+# Emotion-Trajectory-Driven Segment Selection for Depression Severity Prediction
+
+<div style="text-align: center;">
+  <img src="res/Trajectory_exp_pipeline.png" alt="Pipeline of Trajectory-Feature-Driven Emotion-Embedding Selection for Depression Severity Prediction." width="90%">
+</div>
+
 
 
 ## Details
 
-This project is about Emotion-Trajectory-Driven Segment Selection for Depression Severity Prediction
+This project is about Emotion-Trajectory-Driven Segment Selection for Depression Severity Prediction, which is an extension of our previous work "[Using Emotionally Rich Speech Segments for Depression Prediction](https://ieeexplore.ieee.org/abstract/document/10889722)". [This project's code](https://github.com/CSerV/EmotionallyRich) is also available. 
 
 ## Abstract
 
@@ -16,5 +22,9 @@ speech-centered mental-health assessment in a more interpretable manner.
 First, using codes in utils folder to extract the PDEM embeddings and corresponding AV scores, using the [public dimensional emotion model](https://github.com/audeering/w2v2-how-to). The scripts `1_extract_AVD_scores_from_PDEM.py` and `2_extract_embedding_from_PDEM.py` in the *utils* folder can be used as references. 
 
 Then, you can follow the scripts in the *train_andtest* folder to train and test the model using your own data.
+
+## Results and Analysis
+
+
 
 ## Citation
