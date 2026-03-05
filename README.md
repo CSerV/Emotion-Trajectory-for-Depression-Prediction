@@ -5,11 +5,6 @@
 </div>
 
 
-
-## Details
-
-This project is about Emotion-Trajectory-Driven Segment Selection for Depression Severity Prediction, which is an extension of our previous work "[Using Emotionally Rich Speech Segments for Depression Prediction](https://ieeexplore.ieee.org/abstract/document/10889722)". [This project's code](https://github.com/CSerV/EmotionallyRich) is also available. 
-
 ## Abstract
 
 Within speech-based depression prediction systems that incorporate emotion cues, emotion is often treated as static aggregates, overlooking the local dynamics/trajectory of emotion within an interview. Motivated by research in psychology, we address this gap by introducing mathematical formulations to extract acoustic emotion-trajectory features and propose to use them for acoustic segment selection. 
